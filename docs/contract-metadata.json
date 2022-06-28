@@ -1,8 +1,8 @@
 {
-  "name": "Angry Red Buha 2",
+  "name": "Angry Red Buha Royalty",
   "description": "Angry Red Buha Club is a collection of 10,000 algorithmically generated digital bulls living on the Polygon blockchain. By purchasing our bull, you will become a member of the Angry Red Buha Club and will be the first to benefit from our products and services such as the NFT Marketplace, DeFi Exchange and the Buha Token, which are components of the Buha ecosystem.",
   "image": "https://arweave.net/9HNgWfBJsi6liJ1P9uYw1sXfoJYKgxsZ0GHyFeqkV8M?ext=png",
-  "external_link": "https://octagon.mn",
+  "external_link": "http://buha.mn",
   "seller_fee_basis_points": 250,
-  "fee_recipient": "0xaD5dd09E2D1e0B8E05da08FAB6098f91dAee314e"
+  "fee_recipient": "0xC7b813A80573c216D6045D9e3dCa5528d0DD800f"
 }
