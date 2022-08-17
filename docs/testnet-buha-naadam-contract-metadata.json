@@ -1,0 +1,8 @@
+{
+  "name": "Buha Naadam Collection Testnet",
+  "description": "Алтан дуулга өмсгөлтэй дахин давтагдашгүй цор ганц наадмын коллекцын буха нар маань 'Buha Around World' концефттайгаар гарч байгаа бөгөөд гадаад байгаа 200'000 монголчуудын хамгийн их байдаг 40 орчим хотоор аялж байгаагаар хүргэгдэх юм. Ердөө 69 ширхэг буха хэрвээ таны амьдарч байгаа хотоор аялсан бол заавал олж авах ёстой буха юм. Түүнчлэн баярын энэхүү онцгой буха маш олон давуу талыг өөртөө агуулсан болно.",
+  "image": "https://s3.ap-southeast-1.amazonaws.com/octagon.mn/buha-naadam-2022/main.JPG",
+  "external_link": "https://octagon.mn/market?status=LISTED&collectionId=62c5444190913f4ca5368a0e",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xC7b813A80573c216D6045D9e3dCa5528d0DD800f"
+}
