@@ -1,0 +1,8 @@
+{
+  "name" : "NUM NFT",
+  "description" : "\"NUM NFT\" is an entry ticket to the \"Meta University\", which is initiated as part of the 80th anniversary of the establishment of the NUM, and all graduates, current students, teachers and staff can own a limited number of NFTs and turn them into Soulbound NFTs.",
+  "image" : "https://octagon-new.s3.ap-southeast-1.amazonaws.com/collection/num_student_nft/cover/main.jpg",
+  "external_link" : "https://octagon.mn/metanum",
+  "seller_fee_basis_points" : 500,
+  "fee_recipient" : "0xC7b813A80573c216D6045D9e3dCa5528d0DD800f"
+}
